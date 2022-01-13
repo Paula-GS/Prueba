@@ -4,6 +4,7 @@ body {
   font-family: "Nanum Gothic", sans-serif;
 }
 
+/* NAVBAR */
 .navbar-brand {
   padding-left: 8em;
   color: white;
@@ -13,7 +14,8 @@ body {
   padding-right: 8em;
   color: white;
   text-decoration: none;
-  
+
+/* CARRUSEL */
 }
 
 .carousel {
@@ -25,18 +27,22 @@ main{
   margin-right: 8em;
 }
 
+/* PRESENTACION */
 .encabezado {
   background-color: #0dcaf0;
 }
 
+/* TARJETAS */
 .card-body {
   background-color: #0dcaf0;
 }
 
+/* CONTACTO */
 .btn {
   background-color: #0dcaf0;
 }
 
+/* FOOTER */
 footer {
     background-color: #0dcaf0;
     vertical-align: middle;
