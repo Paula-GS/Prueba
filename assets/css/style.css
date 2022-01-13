@@ -1,0 +1,47 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+.navbar-brand {
+  padding-left: 8em;
+  color: white;
+}
+
+.navbar-nav {
+  padding-right: 8em;
+  color: white;
+  text-decoration: none;
+  
+}
+
+.carousel {
+  margin: -em
+}
+
+main{
+  margin-left: 8em;
+  margin-right: 8em;
+}
+
+.encabezado {
+  background-color: #0dcaf0;
+}
+
+.card-body {
+  background-color: #0dcaf0;
+}
+
+.btn {
+  background-color: #0dcaf0;
+}
+
+footer {
+    background-color: #0dcaf0;
+    vertical-align: middle;
+}
+
+.fa-2x {
+  padding: 0.2em;
+  }
