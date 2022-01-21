@@ -1,25 +1,36 @@
+html{
+  scroll-behavior: auto !important;
+}
+
 body {
   background-color: #000000;
   color: #ffffff;
   font-family: "Nanum Gothic", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 /* NAVBAR */
 .navbar-brand {
-  padding-left: 8em;
+  padding-left: 2em;
   color: white;
 }
 
 .navbar-nav {
-  padding-right: 8em;
+  padding-right: 4em;
+  padding-left: 1em;
   color: white;
   text-decoration: none;
+  }
 
-/* CARRUSEL */
+.navbar-toggler {
+  margin-right: 2em;
+  margin-top: 0.5em;
 }
 
+/* CARRUSEL */
 .carousel {
-  margin: -em
+  margin: -em;
 }
 
 main{
