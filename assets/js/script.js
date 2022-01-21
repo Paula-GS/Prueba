@@ -6,15 +6,14 @@ $(document).ready(function () {
         var gato = this.hash
         
         $("html, body").animate(
-            {
-                scrollTop: $(gato).offset().top 
-            },
-            4000
+        {
+            scrollTop: $(gato).offset().top -50
+        }, 2000, 
         )
 
     })
  
-})
+}) 
 
 //botón Enviar
 $ ("#enviar").click(function() {
