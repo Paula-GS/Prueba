@@ -1,4 +1,4 @@
-# Prueba
+# ChileViajes - Final test
 Test for 2nd unit Python Fullstack Bootcamp
 
 Webpage created for a fictional tourism company. 
